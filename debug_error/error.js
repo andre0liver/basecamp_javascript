@@ -26,4 +26,4 @@ function validarArray (arr, num) {
     }
 }
 
-console.log(validarArray([1, 2, 3, 4, 5], 5));
+console.log(validarArray([1, 2, 3, 4, 5], 5)); 
